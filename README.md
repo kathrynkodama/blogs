@@ -62,7 +62,7 @@ These steps are to be completed by the author of the blog post.
 
 6. When the build is finished, check that the blog renders correctly on the [draft site](https://draft-openlibertyio.mybluemix.net/blog/).
 
-  If you see any problems (e.g. formatting or typos), resolve them first in your branch, create another PR into `draft` branch (link the PR to the issue again), then run the [draft site build from Travis CI](https://travis-ci.com/github/OpenLiberty/openliberty.io) again.
+   If you see any problems (e.g. formatting or typos), resolve them first in your branch, create another PR into `draft` branch (link the PR to the issue again), then run the [draft site build from Travis CI](https://travis-ci.com/github/OpenLiberty/openliberty.io) again.
 
 7. When you're happy with the post, create a PR from your branch (_not_ from the `draft` branch) to the `staging` branch.
 
