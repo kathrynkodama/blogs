@@ -22,7 +22,7 @@ These steps are to be completed by the author of the blog post.
      Create [an Open Liberty release notes issue](https://github.com/OpenLiberty/blogs/issues/new?assignees=lauracowen&labels=release&template=release-blog-post.md&title=Release+notes+for+VERSION_NUMBER). Make sure to select each task in the issue as you complete it to show progress.
     
 
-2. Clone the repo and create your feature branch off of the default `prod` branch. From the `prod` branch, run: `git branch -b branch_name`, where `branch_name` is a name you give your new branch.
+2. Clone the repo and create your feature branch off of the default `prod` branch. From the `prod` branch, run: `git checkout -b branch_name`, where `branch_name` is a name you give your new branch.
 
     Do _all_ your editing in this branch.
 
